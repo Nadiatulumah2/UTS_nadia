@@ -14,9 +14,15 @@
 
 ## form biodata 
 
-![3](https://github.com/user-attachments/assets/c504de00-9383-4089-ab0a-e35f4e459f30)
+<img width="857" alt="1a" src="https://github.com/user-attachments/assets/e4ec0140-8198-4849-8e1f-7ab6d6d4ae5d">
 
-![2](https://github.com/user-attachments/assets/2fe41411-6f4b-4504-b68a-feb06bd82a3c)
+<img width="854" alt="1b" src="https://github.com/user-attachments/assets/841c2cbc-9301-497e-9427-86202e1d4237">
+
+<img width="858" alt="1c" src="https://github.com/user-attachments/assets/222bd753-0750-4c6f-99c0-875d3d95350b">
+
+
+
+
 
 
 ## menambahkan data mahasiswa 
