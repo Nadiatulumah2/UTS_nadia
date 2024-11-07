@@ -1,12 +1,12 @@
-# UTS_nadia
-PemogramanVisual
+## UTS_nadia
+## PemogramanVisual
 
 
 # NAMA : NADIATUL UMAH
 
-#NIM : 312210500
+# NIM : 312210500
 
-#KELAS : TI.22.A.5
+# KELAS : TI.22.A.5
 
 ## cek koneksi
 
@@ -14,10 +14,9 @@ PemogramanVisual
 
 ## form biodata 
 
-![2](https://github.com/user-attachments/assets/2fe41411-6f4b-4504-b68a-feb06bd82a3c)
-
-
 ![3](https://github.com/user-attachments/assets/c504de00-9383-4089-ab0a-e35f4e459f30)
+
+![2](https://github.com/user-attachments/assets/2fe41411-6f4b-4504-b68a-feb06bd82a3c)
 
 
 ## menambahkan data mahasiswa 
